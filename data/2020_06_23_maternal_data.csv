@@ -1,0 +1,228 @@
+﻿Astarte ID,Maternal Age,Delivery BMI (kg/m2),Delivery BMI Class,Maternal Weight (kg),Reason for C-section,Mother has pre-eclampsia or eclampsia?,Mother has chorioamnionitis by OB or Pediatric attending notation?,Perinatal ABX,Perinatal Steroid,Mother Inpatient Antimicrobials
+1146,32,NULL,NULL,NULL,Maternal HELLP Syndrome,NULL,NULL,1,1,NULL
+1147,31,27.32,Overweight,NULL,Multiple gestation,NULL,NULL,1,1,NULL
+1148,31,27.32,Overweight,NULL,Multiple gestation,NULL,NULL,1,1,NULL
+1149,31,27.32,Overweight,NULL,Multiple gestation,NULL,NULL,1,1,NULL
+1150,31,40,Obesity Class 3,NULL,NULL,NULL,NULL,1,1,NULL
+1151,18,27.87,Overweight,NULL,NRFHT of twin B,NULL,NULL,1,1,NULL
+1152,18,27.87,Overweight,NULL,NRFHT of twin B,NULL,NULL,1,1,NULL
+1153,28,NULL,NULL,NULL,Breech presentation,NULL,NULL,1,1,NULL
+1154,28,NULL,NULL,NULL,Breech presentation,NULL,NULL,1,1,NULL
+1155,31,NULL,NULL,66.7,NULL,NULL,NULL,1,1,NULL
+1156,39,NULL,NULL,NULL,"Prolonged fetal deceleration, maternal uterine bleeding, chronic abruption, NRFHT, PPROM",NULL,NULL,1,1,NULL
+1157,26,39.8,Obesity Class 2,NULL,NULL,NULL,NULL,1,1,NULL
+1158,24,44.64,Obesity Class 3,NULL,"Breeched presentation, unstoppable PTL",NULL,NULL,1,1,NULL
+1159,17,59,Obesity Class 3,NULL,"Breeched presentation, concern for PTL",NULL,NULL,1,1,NULL
+1160,35,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+1161,35,NULL,NULL,NULL,Fetal intolerance of labor,NULL,NULL,1,1,NULL
+1162,41,NULL,NULL,NULL,"Fetal bradycardia, severe PET",NULL,NULL,0,1,NULL
+1163,19,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+1164,29,NULL,NULL,NULL,"Severe IUP & IUGR, severe umbilical artery dopplar",NULL,NULL,1,1,NULL
+1165,25,NULL,NULL,NULL,"NRFHT, IUGR, chronic abruption",NULL,NULL,1,1,NULL
+1166,37,NULL,NULL,NULL,"Reverse diastolic flow, IUGR",NULL,NULL,1,1,NULL
+1167,37,NULL,NULL,NULL,"Reverse diastolic flow, IUGR",NULL,NULL,1,1,NULL
+1168,28,NULL,NULL,NULL,"Chorio, PPROM, fetal tachycardia",NULL,1,1,1,NULL
+1169,32,NULL,NULL,NULL,Previa,NULL,NULL,1,1,NULL
+1170,40,NULL,NULL,NULL,"PPROM of baby A, chorio",NULL,1,1,1,NULL
+1171,40,NULL,NULL,NULL,"PPROM of baby A, chorio",NULL,1,1,1,NULL
+1172,39,NULL,NULL,NULL,"Severe PET, absent UAD",NULL,NULL,0,1,NULL
+1174,33,24.94,Overweight,NULL,Breeched presentation & risk of cord prolapse,NULL,NULL,1,1,NULL
+1175,39,NULL,NULL,NULL,"Breech presentation, PPROM",NULL,NULL,1,1,NULL
+1177,41,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+1178,24,NULL,NULL,NULL,"Placental abruption, pre-eclampsia",1,NULL,1,1,NULL
+1179,19,NULL,NULL,NULL,Worsening pre-eclampsia & fetal distress,1,NULL,1,1,NULL
+1180,20,32.41,Obesity Class 1,NULL,NULL,NULL,NULL,1,1,NULL
+1181,22,NULL,NULL,NULL,"Breech, sepsis risk, chorio, PPROM",NULL,1,1,1,NULL
+1182,38,NULL,NULL,NULL,PPROM w/ cord prolapse of twin A,NULL,NULL,1,1,NULL
+1183,28,NULL,NULL,NULL,NULL,NULL,NULL,1,0,NULL
+1185,36,43.9,Obesity Class 3,NULL,"PPROM, breech presentation of twin A, unstoppable PTL",NULL,NULL,1,1,NULL
+1186,36,43.9,Obesity Class 3,NULL,"PPROM, breech presentation of twin A, unstoppable PTL",NULL,NULL,1,1,NULL
+1187,30,NULL,NULL,NULL,Concern for placental abruption & NRFHT,NULL,NULL,1,1,NULL
+1188,38,NULL,NULL,NULL,"NRFHT, IUGR w/ reverse dopplar",NULL,NULL,1,1,NULL
+1191,35,NULL,NULL,NULL,Maternal HELLP Syndrome & fetal decelerations,NULL,NULL,1,1,NULL
+1192,33,NULL,NULL,NULL,"IUGR of baby C w/ diminished UAD, baby B NTD, severe PET",NULL,NULL,1,1,NULL
+1193,29,NULL,NULL,101.6,"NRFHT, breech presentation",NULL,NULL,1,1,NULL
+1194,29,NULL,NULL,NULL,NULL,NULL,NULL,1,0,NULL
+1195,29,NULL,NULL,NULL,Severe IUGR & NRFHT,NULL,NULL,1,1,NULL
+1196,21,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+1197,34,NULL,NULL,NULL,Advacned cervical dilation & breeched presentation,NULL,NULL,1,1,NULL
+1198,34,NULL,NULL,NULL,Severe preeclampsia w/ pulmonary effusions,1,NULL,1,1,NULL
+1199,35,NULL,NULL,82.1,Placenta acretia,NULL,NULL,0,1,NULL
+1200,37,NULL,NULL,NULL,NULL,NULL,NULL,1,0,NULL
+1201,36,NULL,NULL,NULL,"IUGR, NRFHT",NULL,NULL,1,1,NULL
+1202,32,NULL,NULL,NULL,"PPROM, light meconium",NULL,NULL,1,1,NULL
+1203,29,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+1208,36,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+1209,30,NULL,Obesity Class 3,NULL,"Worsening umbilical dopplars, pre-eclampsia",1,NULL,1,1,NULL
+1212,29,NULL,NULL,NULL,"PTL, intrauterine demise of twin, breech presentation",NULL,NULL,1,1,NULL
+1213,30,NULL,NULL,NULL,Worsening pre-eclampsia,1,NULL,0,1,NULL
+1215,29,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+1217,38,NULL,NULL,NULL,PPROM w/ cord prolapse of twin A,NULL,NULL,1,1,NULL
+1218,24,NULL,NULL,NULL,"cHTN w/ superimposed pre-eclampsia, IUGR, NRFHT",1,NULL,1,1,NULL
+1220,31,NULL,NULL,NULL,Breech presentation & placental abruption,NULL,NULL,0,1,NULL
+1222,28,NULL,Obese,NULL,Complete placenta previa,NULL,NULL,1,1,NULL
+1224,35,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+1225,21,NULL,NULL,NULL,Severe preeclampsia & IUGR w/ abilical dopplars,1,NULL,1,1,NULL
+1227,31,28.34,Overweight,NULL,NRFHT,NULL,NULL,1,1,NULL
+1228,29,42.1,Obesity Class 3,NULL,Pre-eclampsia,1,0,NULL,NULL,1
+1229,30,32,Obesity Class 1,NULL,NULL,0,0,NULL,NULL,0
+1230,26,NULL,NULL,NULL,NULL,0,0,NULL,NULL,0
+1231,32,30.4,Obesity Class 1,NULL,NULL,0,0,NULL,NULL,1
+1232,37,27.3,Overweight,NULL,NULL,0,0,NULL,NULL,1
+1233,32,45.8,Obesity Class 3,NULL,NULL,1,0,NULL,NULL,1
+1234,27,30.1,Obesity Class 1,NULL,Non-reassuring fetal status,1,0,NULL,NULL,1
+1235,29,38.4,Obesity Class 2,NULL,Non-reassuring fetal status,0,0,NULL,NULL,1
+1236,29,38.4,Obesity Class 2,NULL,Non-reassuring fetal status,0,0,NULL,NULL,1
+1237,20,26.1,Overweight,NULL,Footling breech position,0,0,NULL,NULL,1
+1238,33,29.1,Overweight,NULL,Breech position,1,0,NULL,NULL,1
+1239,33,29.1,Overweight,NULL,Breech position,1,0,NULL,NULL,1
+1240,29,NULL,NULL,NULL,Mother hx of HSV,0,0,NULL,NULL,1
+1241,29,NULL,NULL,NULL,Mother hx of HSV,0,0,NULL,NULL,1
+1242,22,20.6,Normal Weight,NULL,Non-reassuring fetal status,0,0,NULL,NULL,1
+1243,20,27.3,Overweight,NULL,Breech position,0,0,NULL,NULL,1
+1244,32,52.8,Obesity Class 3,NULL,NULL,0,0,NULL,NULL,1
+1245,35,41.4,Obesity Class 3,NULL,Non-reassuring fetal status,0,0,NULL,NULL,1
+1246,35,41.4,Obesity Class 3,NULL,Non-reassuring fetal status,0,0,NULL,NULL,1
+1247,32,38.8,Obesity Class 2,NULL,Non-reassuring fetal status,0,0,NULL,NULL,1
+1248,32,38.8,Obesity Class 2,NULL,Non-reassuring fetal status,0,0,NULL,NULL,1
+1249,31,33.3,Obesity Class 1,NULL,NULL,0,0,NULL,NULL,1
+1250,39,42.3,Obesity Class 3,NULL,Non-reassuring fetal status,1,0,NULL,NULL,1
+1251,32,37.1,Obesity Class 2,NULL,Non-reassuring fetal status,0,0,NULL,NULL,1
+1252,32,37.1,Obesity Class 2,NULL,Non-reassuring fetal status,0,0,NULL,NULL,1
+1253,24,21.4,Normal Weight,NULL,NULL,0,0,NULL,NULL,0
+1254,37,40.7,Obesity Class 3,NULL,Tranverse lie to twin B; prior preterm births; no prenatal care,0,0,NULL,NULL,1
+1255,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1256,33,24.6,Normal Weight,NULL,Chorioamnionitis,0,1,NULL,NULL,1
+1257,25,28.2,Overweight,NULL,IUGR with absent end diastolic flow,0,0,NULL,NULL,1
+1258,25,17.3,Underweight,NULL,NULL,0,0,NULL,NULL,1
+1259,37,33.2,Obesity Class 1,NULL,"HELLP syndrome, chronic hypertension, pre-eclampsia, maternal thrombocytopenia",1,0,NULL,NULL,1
+1260,20,26.4,Overweight,NULL,Decreased fetal movements,0,0,NULL,NULL,1
+1261,29,32.9,Obesity Class 1,NULL,Non-reassuring fetal status,1,0,NULL,NULL,1
+1262,24,33.5,Obesity Class 1,NULL,NULL,0,0,NULL,NULL,1
+1263,37,28.2,Overweight,NULL,Pre-eclampsia and chronic hypertension,1,0,NULL,NULL,1
+1264,33,29.5,Overweight,NULL,Hypertension; pre-eclampsia,1,0,NULL,NULL,1
+1265,26,19.1,Normal Weight,NULL,"IUGR, incomplete steroid course, GBS positive, HSV positive",1,0,NULL,NULL,1
+1266,30,17.5,Underweight,NULL,NULL,0,0,NULL,NULL,1
+1267,33,35.7,Obesity Class 2,NULL,NULL,0,0,NULL,NULL,1
+1268,37,29.2,Overweight,NULL,"IUGR, history of preterm deliveries, advanced maternal age",0,0,NULL,NULL,1
+1269,22,43.8,Obesity Class 3,NULL,NULL,0,0,NULL,NULL,1
+1270,25,29.9,Obesity Class 1,NULL,Premature rupture of membranes,0,0,NULL,NULL,1
+1271,23,40.8,Obesity Class 3,NULL,Pre-eclampsia,1,0,NULL,NULL,1
+1272,28,NULL,NULL,NULL,Decreased fetal movements,0,0,NULL,NULL,1
+1273,31,31.3,Obesity Class 1,NULL,Eclampsia,1,0,NULL,NULL,1
+1274,23,20.1,Normal Weight,NULL,NULL,1,0,NULL,NULL,1
+1275,30,26.3,Overweight,NULL,NULL,0,0,NULL,NULL,0
+1276,30,26.3,Overweight,NULL,NULL,0,0,NULL,NULL,0
+1277,31,22.3,Normal Weight,NULL,Placenta previa,0,0,NULL,NULL,1
+1278,37,27.6,Overweight,NULL,Breech presentation and pre-eclampsia,1,0,NULL,NULL,1
+1279,21,34.4,Obesity Class 1,NULL,NULL,0,0,NULL,NULL,1
+1280,33,40.7,Obesity Class 3,NULL,Maternal thrombocytopenia,0,0,NULL,NULL,1
+3000,44,NULL,NULL,NULL,NRFHT,NULL,NULL,1,1,NULL
+3001,30,29.7,Overweight,NULL,NULL,NULL,NULL,1,1,NULL
+3002,33,NULL,NULL,NULL,"IUGR of baby C w/ diminished UAD, baby B NTD, severe PET",NULL,NULL,1,1,NULL
+3003,34,NULL,NULL,106.6 kg,"Continuous episodes of bleeding, placental previa",NULL,NULL,0,1,NULL
+3004,31,NULL,NULL,NULL,Placenta abruption,NULL,NULL,1,1,NULL
+3005,23,27.46,Overweight,NULL,"NRFHT, severe pre-eclampsia",1,NULL,1,1,NULL
+3006,39,NULL,NULL,NULL,"NRFHT, decreased fetal movement",NULL,NULL,1,1,NULL
+3007,28,NULL,NULL,NULL,"NRFHT, IUGR",NULL,NULL,1,1,NULL
+3008,28,NULL,NULL,NULL,"NRFHT, IUGR",NULL,NULL,1,1,NULL
+3009,20,30.47,Obesity Class 1,NULL,NULL,NULL,NULL,1,1,NULL
+3010,40,31.93,Obesity Class 1,NULL,NULL,NULL,NULL,1,1,NULL
+3011,40,31.93,Obesity Class 1,NULL,NULL,NULL,NULL,1,1,NULL
+3012,35,NULL,NULL,82.1 kg,Placenta acretia,NULL,NULL,0,1,NULL
+3013,34,NULL,NULL,NULL,"IUGR, dopplar deterioration w/ occaisional reversal, NRFHT",NULL,NULL,1,1,NULL
+3014,29,NULL,NULL,NULL,Multiple gestation,NULL,NULL,1,1,NULL
+3015,29,NULL,NULL,NULL,Multiple gestation,NULL,NULL,1,1,NULL
+3016,29,NULL,NULL,NULL,Multiple gestation,NULL,NULL,1,1,NULL
+3017,29,NULL,NULL,NULL,Multiple gestation,NULL,NULL,1,1,NULL
+3018,34,NULL,NULL,NULL,"Cholestasis (ICP), worsening transaminitis",NULL,NULL,1,1,NULL
+3019,36,NULL,NULL,NULL,Placental previa,NULL,NULL,1,0,NULL
+3020,30,NULL,NULL,NULL,"Placental abruption, NRFHT, several weeks w/ PPROM",NULL,NULL,1,1,NULL
+3021,35,NULL,NULL,NULL,"NRFHT, severe PET",NULL,NULL,1,1,NULL
+3022,24,44,Obesity Class 3,NULL,NULL,NULL,NULL,NULL,1,NULL
+3023,41,NULL,NULL,NULL,Preeclampsia,1,NULL,1,1,NULL
+3024,35,NULL,NULL,NULL,"Pre-eclampsia, w/ SF & IUGR",1,NULL,1,1,NULL
+3025,33,28.7,Overweight,NULL,Malposition/presentation,NULL,NULL,1,0,NULL
+3026,20,29.05,Overweight,NULL,NULL,NULL,NULL,1,1,NULL
+3027,41,NULL,NULL,NULL,"Concern for placental abruption, current cardiac dz",NULL,NULL,1,1,NULL
+3028,28,NULL,NULL,NULL,"SROM Hx of myomectomy, chronic abruption",NULL,NULL,0,1,NULL
+3029,30,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+3030,31,NULL,NULL,NULL,FTP & fetal bradycardia of twin B,NULL,NULL,1,1,NULL
+3031,31,NULL,NULL,NULL,FTP & fetal bradycardia of twin B,NULL,NULL,1,1,NULL
+3032,31,NULL,NULL,NULL,"Complete placenta previa, NRFHT",NULL,NULL,0,1,NULL
+3033,37,NULL,NULL,NULL,"SROM, breech presentation",NULL,NULL,1,1,NULL
+3034,32,40.74,Obesity Class 3,NULL,"Planceta previa, breech presentation",NULL,NULL,1,1,NULL
+3035,32,40.74,Obesity Class 3,NULL,"Planceta previa, breech presentation",NULL,NULL,1,1,NULL
+3036,40,NULL,NULL,NULL,"Worsening sPET, severe oligo",NULL,NULL,1,1,NULL
+3037,24,NULL,NULL,NULL,"Placenta abruption, vaginal bleeding s/p MVA",NULL,NULL,1,1,NULL
+3038,22,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+3039,34,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+3040,40,NULL,NULL,NULL,Placenta acretia & previa,NULL,NULL,1,1,NULL
+3041,39,NULL,NULL,NULL,"Breech presentation, PPROM",NULL,NULL,1,1,NULL
+3042,39,NULL,NULL,NULL,Preeclampsia,1,NULL,0,1,NULL
+3043,39,NULL,NULL,NULL,Preeclampsia,1,NULL,0,1,NULL
+3044,42,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+3045,42,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+3046,21,43,Obesity Class 3,NULL,"Severe preeclampsia & reversed end diastolic flow, NRFHT, left adnexal cyst",1,NULL,1,1,NULL
+3047,33,NULL,NULL,NULL,PPROM,NULL,NULL,1,0,NULL
+3048,38,NULL,NULL,NULL,"NRFHT, IUGR, multiple gestation, placental previa",NULL,NULL,1,1,NULL
+3049,38,NULL,NULL,NULL,"NRFHT, IUGR, multiple gestation, placental previa",NULL,NULL,1,1,NULL
+3050,42,NULL,Overweight,NULL,Placenta previa & vaginal bleeding,NULL,NULL,1,1,NULL
+3051,37,NULL,NULL,NULL,NRFHT of twin B,NULL,NULL,1,1,NULL
+3052,37,NULL,NULL,NULL,NRFHT of twin B,NULL,NULL,1,1,NULL
+3053,30,NULL,NULL,NULL,Worsening pre-eclampsia,1,NULL,0,1,NULL
+3054,33,NULL,NULL,NULL,Breech secondary to PPROM w/ unstoppable PTL,NULL,NULL,0,1,NULL
+3055,34,NULL,NULL,NULL,"Fetal demise of twin A w/ severe cystic hygroma, PPROM",NULL,NULL,1,1,NULL
+3056,30,NULL,NULL,NULL,HELLP syndrome,NULL,NULL,1,1,NULL
+3057,34,NULL,NULL,NULL,"Maternal abruption, placental previa",NULL,NULL,1,1,NULL
+3058,27,35.12,Obesity Class 2,NULL,Severe pre-eclampsia,1,NULL,1,1,NULL
+3059,28,NULL,NULL,NULL,"Placental abruption, PPROM",NULL,NULL,1,1,NULL
+3060,28,NULL,NULL,NULL,"Placental abruption, PPROM",NULL,NULL,1,1,NULL
+3061,35,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+3062,27,NULL,NULL,NULL,Fetal IOL,NULL,NULL,1,1,NULL
+3063,35,38.5,Obesity Class 2,NULL,NULL,NULL,NULL,1,1,NULL
+3064,30,NULL,NULL,NULL,Worsening PET w/ severe features,NULL,NULL,1,1,NULL
+3065,20,NULL,NULL,NULL,"IUGR, reverse flow",NULL,NULL,1,1,NULL
+3066,46,NULL,NULL,NULL,"Breech presentation, NRFHT of baby B, PPROM of baby A",NULL,NULL,1,1,NULL
+3067,36,NULL,NULL,NULL,"IUGR, diminished UAD, reversed duct venous of baby B",NULL,NULL,1,1,NULL
+3068,36,NULL,NULL,NULL,"IUGR, diminished UAD, reversed duct venous of baby B",NULL,NULL,1,1,NULL
+3069,34,NULL,NULL,NULL,"Breech presentation, pre-eclampsia",1,NULL,1,1,NULL
+3070,42,NULL,NULL,NULL,"Pre-eclampsia, severe features",1,NULL,1,1,NULL
+3071,39,NULL,NULL,NULL,Planceta previa,NULL,NULL,1,1,NULL
+3072,20,NULL,NULL,NULL,NRFHT,NULL,NULL,1,1,NULL
+3073,29,NULL,NULL,NULL,Pre-eclampsia,1,NULL,1,1,NULL
+3074,34,NULL,NULL,NULL,BBP 2/8 w/ decreased fetal movement,NULL,NULL,NULL,NULL,NULL
+3075,34,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+3076,36,NULL,NULL,NULL,Superimposed pre-eclampsia,1,NULL,1,1,NULL
+3077,30,NULL,NULL,NULL,"Breech presentation, PPROM",NULL,NULL,1,0,NULL
+3078,37,NULL,NULL,NULL,Breech presentation,NULL,NULL,1,1,NULL
+3079,30,33.1,Obesity Class 1,NULL,"Decreased fetal movement, IUGR, NRFHT",NULL,NULL,1,1,NULL
+3080,33,29,Overweight,NULL,Breech positioning,NULL,NULL,1,1,NULL
+3081,29,37.4,Obesity Class 2,NULL,Worsening PET,NULL,NULL,0,1,NULL
+3082,21,NULL,NULL,NULL,"IUGR, NRFHT",NULL,NULL,1,1,NULL
+3083,29,41.35,Obesity Class 3,NULL,Cirrhosis & hepatorenal syndrome,NULL,NULL,1,1,NULL
+3084,34,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+3085,36,NULL,NULL,NULL,"Pre-eclampsia, IUGR, SIUP",1,NULL,1,1,NULL
+3086,34,NULL,NULL,NULL,"Superimposed pre-eclampsia, MRFHT",1,NULL,1,1,NULL
+3087,38,30,Obesity Class 1,NULL,NULL,NULL,NULL,1,1,NULL
+3089,37,33.28,Obesity Class 1,NULL,NULL,NULL,NULL,1,1,NULL
+3090,38,NULL,NULL,NULL,"NRFHT, IUGR w/ reverse dopplar",NULL,NULL,1,1,NULL
+3091,17,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+3092,32,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+3093,29,NULL,NULL,NULL,Multiple gestation,NULL,NULL,1,1,NULL
+3094,29,NULL,NULL,NULL,Multiple gestation,NULL,NULL,1,1,NULL
+3095,32,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+3096,32,NULL,NULL,NULL,NULL,NULL,NULL,1,1,NULL
+3097,39,NULL,NULL,NULL,"NRFHT, severe IUGR of twin A",NULL,NULL,1,1,NULL
+3098,39,NULL,NULL,NULL,"NRFHT, severe IUGR of twin A",NULL,NULL,1,1,NULL
+3099,35,20.85,Normal Weight,NULL,Placenta previa w/ persistent bleeding,NULL,NULL,1,1,NULL
+3100,39,NULL,NULL,NULL,"Placental abruption, NRFHT, several weeks w/ PPROM",NULL,NULL,1,1,NULL
+3101,35,NULL,NULL,NULL,"Superimposed pre-eclampsia, declined TOLAC",1,NULL,1,1,NULL
+3102,35,NULL,NULL,NULL,"Superimposed pre-eclampsia, declined TOLAC",1,NULL,1,1,NULL
+3103,36,NULL,NULL,NULL,"Superimposed pre-eclampsia, triplet pregnancy",1,NULL,1,1,NULL
+3104,36,NULL,NULL,NULL,"Superimposed pre-eclampsia, triplet pregnancy",1,NULL,1,1,NULL
+3105,36,NULL,NULL,NULL,"Superimposed pre-eclampsia, triplet pregnancy",1,NULL,1,1,NULL
+3106,40,NULL,NULL,NULL,"NRFHT, reverse dopplars of twin B",NULL,NULL,1,1,NULL
+3107,40,NULL,NULL,NULL,"NRFHT, reverse dopplars of twin B",NULL,NULL,1,1,NULL
+3108,24,NULL,NULL,NULL,Breech & funic presentation,NULL,NULL,1,1,NULL
+3109,24,NULL,NULL,NULL,Breech & funic presentation,NULL,NULL,1,1,NULL
